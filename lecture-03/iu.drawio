@@ -1,0 +1,43 @@
+<mxfile host="65bd71144e">
+    <diagram id="kFE7-yPvR1OW8ZSq_h4t" name="Page-1">
+        <mxGraphModel dx="766" dy="792" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-4" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.decision;whiteSpace=wrap;" value="age&amp;gt;=18?" vertex="1">
+                    <mxGeometry height="110" width="150" x="285" y="360" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-14" edge="1" parent="1" source="8ZIV2K3LdcSVCPltE0xr-6" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="8ZIV2K3LdcSVCPltE0xr-7">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-6" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="input age" vertex="1">
+                    <mxGeometry height="60" width="165" x="277.5" y="150" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-7" parent="1" style="html=1;strokeWidth=2;shape=manualInput;boundedLbl=1;whiteSpace=wrap;rounded=1;size=26;arcSize=11;" value="input age" vertex="1">
+                    <mxGeometry height="70" width="170" x="275" y="250" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-9" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;" value="&quot;You are an adult&quot;" vertex="1">
+                    <mxGeometry height="60" width="190" x="265" y="510" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-11" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="stop" vertex="1">
+                    <mxGeometry height="70" width="200" x="260" y="610" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-12" parent="1" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.terminator;whiteSpace=wrap;" value="start" vertex="1">
+                    <mxGeometry height="60" width="160" x="280" y="40" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-13" edge="1" parent="1" source="8ZIV2K3LdcSVCPltE0xr-12" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="8ZIV2K3LdcSVCPltE0xr-6">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-15" edge="1" parent="1" source="8ZIV2K3LdcSVCPltE0xr-7" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="8ZIV2K3LdcSVCPltE0xr-4">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-16" edge="1" parent="1" source="8ZIV2K3LdcSVCPltE0xr-4" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="8ZIV2K3LdcSVCPltE0xr-9">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8ZIV2K3LdcSVCPltE0xr-17" edge="1" parent="1" source="8ZIV2K3LdcSVCPltE0xr-9" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" target="8ZIV2K3LdcSVCPltE0xr-11">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
